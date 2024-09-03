@@ -1,0 +1,5 @@
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes#routes_needed_for_the_locallibrary
+
+https://www.chucksacademy.com/es/topic/node-express/routes-and-controllers
+
+https://raul-alhena.medium.com/api-express-con-mysql-y-sequelize-adeff4fe8120#:~:text=Como%20siempre%20si%20quieres%20acceder%20a
